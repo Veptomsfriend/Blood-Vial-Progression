@@ -49,3 +49,5 @@ Good to know
 Toggle the mod in Kronos’s mod list. Turned off, the game goes back to normal and your progress is kept.
 Keep Kronos’s own unlock options off, or the locks may not work.
 In co-op, the host earns the vials.
+
+Extract the zip into your Kronos mods folder so you end up with kronos\mods\blood_vials\mod.json, then turn Blood Vials on in Kronos’s mod list. Made on Kronos v1.41.
